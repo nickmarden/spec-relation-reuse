@@ -11,6 +11,7 @@ group :development do
   gem 'rspec-rails'
   gem 'factory_girl'
   gem 'factory_girl_rails'
+  gem 'pry'
 end
 
 # Gems used only for assets and not required
